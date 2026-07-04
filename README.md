@@ -21,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/saksxham/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/saksxham/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/saksxham/LeetCode/tree/master/0125-valid-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saksxham/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
