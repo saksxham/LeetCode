@@ -23,9 +23,9 @@ class Solution:
             return ans
 #Point to remeber is // operation is taking place befor + , that will throw wrong output
         if (l1+l2)%2==0:
-            for i in range(((l1+l2)//2)-1):
+            for i in range(((l1+l2)//2)-1):#for 6, range is range(2),so runs for (0,1) iteration
                 j=get_min()
-            return (get_min()+get_min())/2
+            return (get_min()+get_min())/2#for 3rd and fourth element, its called twice in return
         else:
             for i in range((l1+l2)//2):
                 j=get_min()
