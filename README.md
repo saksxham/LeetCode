@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saksxham/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksxham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/saksxham/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saksxham/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/saksxham/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saksxham/LeetCode/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saksxham/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksxham/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksxham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/saksxham/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/saksxham/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/saksxham/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saksxham/LeetCode/tree/master/0283-move-zeroes) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saksxham/LeetCode/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saksxham/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
