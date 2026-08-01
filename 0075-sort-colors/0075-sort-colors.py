@@ -20,5 +20,7 @@ class Solution:
                 nums[mid]=nums[high]
                 nums[high]=2
                 high=high-1
+#The brute force: Use any sorting algortith(merge sort: n log n)
+#better solution: count frequency of 0,1,2 & then manually filling it up from start
 
 
