@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saksxham/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/saksxham/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/saksxham/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/saksxham/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saksxham/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saksxham/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/saksxham/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saksxham/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saksxham/LeetCode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saksxham/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -91,12 +93,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saksxham/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saksxham/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/saksxham/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saksxham/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/saksxham/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saksxham/LeetCode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saksxham/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
